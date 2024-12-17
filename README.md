@@ -1,5 +1,5 @@
-# Exp no:2 Correlation and regression for data analysis
-  Date:12-11-24
+# Exp no:3 Correlation and regression for data analysis
+  Date:5-11-24
 # Aim : 
 To analyse given data using coeffificient of correlation and regression line
 ![image](https://user-images.githubusercontent.com/104613195/168224136-d6b64e64-7d3d-4775-9337-c8f96fe41f2d.png)
